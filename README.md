@@ -81,6 +81,7 @@
 [链接2](https://www.cnblogs.com/carysun/archive/2011/01/12/moss-caml.html),
 你也可以下载CAML Query开发工具(打开sharepoint online的列表即可使用)
 caml查询，我之前也做了一些笔记
+### `html部分` - 演示如何使用pageInfo的
 ```html
 <div>
     <table>
