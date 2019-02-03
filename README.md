@@ -1,3 +1,6 @@
+# 最近在整理这几年做过的项目经验，这一部分是基于sharepoint平台，使用的是angular.js
+- 希望能够帮助到sharepoint开发者，如果好评，请不要吝啬给个star
+
 ## SPService.js
 - SP API的集合
 
@@ -73,7 +76,7 @@
 * camlQuery是sharepoint的查询，不知道的，[链接1](https://www.cnblogs.com/johnsonwong/archive/2011/02/27/1966008.html) 
 [链接2](https://www.cnblogs.com/carysun/archive/2011/01/12/moss-caml.html),
 你也可以下载CAML Query开发工具(打开sharepoint online的列表即可使用)
-
+caml查询，我之前也做了一些笔记
 ```html
 <div>
     <table>
