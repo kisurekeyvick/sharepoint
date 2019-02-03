@@ -1,11 +1,15 @@
-# 最近在整理这几年做过的项目经验，这一部分是基于sharepoint平台，使用的是angular.js
-- 希望能够帮助到sharepoint开发者，如果好评，请不要吝啬给个star
+# 最近在整理这几年做过的项目经验，这一部分是基于sharepoint平台，前端使用的是angular.js框架
+- 希望能够帮助到sharepoint开发者，如果好评，请不要吝啬给个star，谢谢
 
 ## SPService.js
 - SP API的集合
 
 ## SPPage.js
 - SP 的分页
+
+## caml.js
+- 这个是之前使用caml时候，遇到的一些查询，对于sharepoint开发，基本够用，需要注意的是
+    使用caml的时候，你需要给你的项目添加camljs.js
 
 ## 使用方法 - Demo
 
