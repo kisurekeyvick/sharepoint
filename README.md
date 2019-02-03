@@ -103,4 +103,4 @@ caml查询，我之前也做了一些笔记
     </div>
 </div>
 ```
-* uib-pagination是一个插件，你可以忽略
+* uib-pagination是一个插件
